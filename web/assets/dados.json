@@ -1,52 +1,44 @@
-{
-    "produtos": [
-        {
-            "id": 1,
-            "nome": "Camisa Oficial Flamengo",
-            "descricao": "Camisa oficial da temporada 2025, tecido DryFit e escudo bordado.",
-            "preco": 299.90,
-            "categoria": "Futebol",
-            "imagem": "assets/img/camisa_flamengo.png"
-        },
-        {
-            "id": 2,
-            "nome": "Chuteira Society Pro",
-            "descricao": "Chuteira para campo society com solado em borracha e ótimo grip.",
-            "preco": 349.90,
-            "categoria": "Futebol",
-            "imagem": "assets/images/chuteira_society.jpg"
-        },
-        {
-            "id": 3,
-            "nome": "Bola Oficial Campo",
-            "descricao": "Bola de futebol tamanho padrão, costurada à mão e homologada pela FIFA.",
-            "preco": 199.90,
-            "categoria": "Futebol",
-            "imagem": "assets/images/bola_campo.jpg"
-        },
-        {
-            "id": 4,
-            "nome": "Par de Caneleiras Profissionais",
-            "descricao": "Caneleiras leves com proteção anatômica e cinta elástica ajustável.",
-            "preco": 89.90,
-            "categoria": "Futebol",
-            "imagem": "assets/images/caneleiras.jpg"
-        },
-        {
-            "id": 5,
-            "nome": "Meião Compressão Elite",
-            "descricao": "Par de meiões com compressão para maior performance e conforto.",
-            "preco": 59.90,
-            "categoria": "Futebol",
-            "imagem": "assets/images/meiao.jpg"
-        },
-        {
-            "id": 6,
-            "nome": "Luvas de Goleiro GripMax",
-            "descricao": "Luvas com palma antiderrapante, proteção nos dedos e alta durabilidade.",
-            "preco": 179.90,
-            "categoria": "Futebol",
-            "imagem": "assets/images/luvas_goleiro.jpg"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "name": "Camisa Oficial Cruzeiro",
+    "description": "Camisa oficial da temporada 2025, tecido DryFit e escudo bordado.",
+    "price": 299.90,
+    "image": "assets/img/camisacruzeiro.png"
+  },
+  {
+    "id": 2,
+    "name": "Chuteira Society Pro",
+    "description": "Chuteira para campo society com solado em borracha e ótimo grip.",
+    "price": 349.90,
+    "image": "assets/img/chuteira.png"
+  },
+  {
+    "id": 3,
+    "name": "Bola Oficial Campo",
+    "description": "Bola de futebol tamanho padrão, costurada à mão e homologada pela FIFA.",
+    "price": 199.90,
+    "image": "assets/img/bola.png"
+  },
+  {
+    "id": 4,
+    "name": "Par de Caneleiras Profissionais",
+    "description": "Caneleiras leves com proteção anatômica e cinta elástica ajustável.",
+    "price": 89.90,
+    "image": "assets/img/caneleira.png"
+  },
+  {
+    "id": 5,
+    "name": "Meião Compressão Elite",
+    "description": "Par de meiões com compressão para maior performance e conforto.",
+    "price": 59.90,
+    "image": "assets/img/meia.png"
+  },
+  {
+    "id": 6,
+    "name": "Luvas de Goleiro GripMax",
+    "description": "Luvas com palma antiderrapante, proteção nos dedos e alta durabilidade.",
+    "price": 179.90,
+    "image": "assets/img/luva.png"
+  }
+]
